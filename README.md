@@ -1,7 +1,3 @@
-### Hi there 👋
+### hihi 👋
 
-- 🔭 I’m currently working on my INF312 Assignments
-- 🌱 I’m currently learning the basics of R through RStudio
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love dessert!
--->
+product Designer larping as someone who knows how to use GitHub
