@@ -1,6 +1,6 @@
 # hihi, I'm cindy 👋
 
-I'm a product designer who builds in code, currently finishing my Master of Human-Computer Interaction + Design at the University of Washington.
+I'm a product designer who ships in code, currently finishing my Master of Human-Computer Interaction + Design at the University of Washington.
 
 ### what I'm about
 - 🎨 **product design** rooted in research, craft, and storytelling
