@@ -1,11 +1,11 @@
-# hihi, i'm cindy 👋
+# hihi, I'm cindy 👋
 
 I'm a product designer who builds in code, currently finishing my Master of Human-Computer Interaction + Design at the University of Washington.
 
-### what i'm about
+### what I'm about
 - 🎨 **product design** rooted in research, craft, and storytelling
-- 🤖 **AI-native workflows** to explore what's possible as a designer, and pushing to build things i couldn't have alone before
-- 🎀 i put pieces of myself into everything i make
+- 🤖 **AI-native workflows** to explore what's possible as a designer, and pushing to build things I couldn't have alone before
+- 🎀 I put pieces of myself into everything I make
 
 ### currently
 - building community + belonging for Reddit (my capstone!)
