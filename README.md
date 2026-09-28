@@ -1,11 +1,11 @@
 # hihi, I'm cindy 👋
 
-I'm a product designer who ships in code and just graduated with a Master of Human-Computer Interaction + Design at the University of Washington.
+I'm a product designer who ships in code and builds to think! I just graduated with a Master of Human-Computer Interaction + Design at the University of Washington.
 
 ### how I work
-- 🎨 **product design** rooted in research, craft, and storytelling
-- 🤖 **AI-native workflows** to explore what's possible as a designer, and pushing to build things I couldn't have alone before
-- 🎀 I put pieces of myself into everything I make
+- 🎨 **product design** rooted in meticulous craft and storytelling
+- 🤖 **AI-native workflows** to tinker around and explore what's possible 
+- 🎀 there's a little piece of me in everything I make
 
 ### currently
 - building community + belonging for Reddit (my capstone!)
