@@ -1,6 +1,6 @@
 # hihi, I'm cindy 👋
 
-I'm a product designer who ships in code and just graduated from the Master of Human-Computer Interaction + Design at the University of Washington.
+I'm a product designer who ships in code and just graduated with a Master of Human-Computer Interaction + Design at the University of Washington.
 
 ### how I work
 - 🎨 **product design** rooted in research, craft, and storytelling
